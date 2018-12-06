@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">You MP3 Converter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-8292427510874293~2016553567</string>
+
+</resources>
